@@ -1,4 +1,4 @@
-### Hello! My name is Nicole Nguyen. I am a first year Computer Science Major at the University of California, Irvine.
+### Hello! My name is Nicole Nguyen. I am a third year Informatics Major at the University of California, Irvine.
 
 I am currently learning Python, but I look forward to learning more about other programming softwares such as Java. I am still looking into different specializations within computer science and plan on working on some projects in the near future to explore my potential interests.
 
